@@ -2,7 +2,7 @@
 Person Selector App consisting of MVVM architecture using Hilt as Dependency Injection &amp; Room DB as Storage with Flow
 
 ## Build info ##
-* Android Studio - 4.0.1
+* Android Studio - 4.1
 * Compile SDK - 30
 * MinSDK - 21, Target - 30
 
