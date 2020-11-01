@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PersonSelector</string>
+    <string name="position">position</string>
+    <string name="accept">Accept</string>
+    <string name="decline">Decline</string>
+    <string name="error_network_timeout">Network Timeout</string>
+    <string name="error_no_connection">Please check your Internet Connection</string>
+    <string name="error_server">Something Went Wrong! Please Try Again Later</string>
+</resources>
